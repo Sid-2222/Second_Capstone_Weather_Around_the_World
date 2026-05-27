@@ -27,48 +27,65 @@ try:
 
     weather_data = []
 
-    # ✅ FIX: iterate row by row
     rows = driver.find_elements(By.CSS_SELECTOR, "table.zebra tbody tr")
 
     for row in rows:
-        tds = row.find_elements(By.TAG_NAME, "td")
+        table_cells  = row.find_elements(By.TAG_NAME, "td")
 
-        # each city = 4 columns (city, time, icon, temp)
-        for i in range(0, len(tds), 4):
+        for i in range(0, len(table_cells ), 4):
 
             try:
-                city = tds[i].find_element(By.TAG_NAME, "a").text.strip()
+                city = table_cells [i].find_element(By.TAG_NAME, "a").text.strip()
             except:
                 city = ""
 
             try:
-                time = tds[i + 1].text.strip()
+                time = table_cells [i + 1].text.strip()
             except:
                 time = ""
 
             try:
-                temp = tds[i + 3].text.strip()
+                temp = table_cells [i + 3].text.strip()
             except:
                 temp = ""
 
             try:
-                image = tds[i + 2].find_element(By.TAG_NAME, "img").get_attribute("src")
+                image = table_cells [i + 2].find_element(By.TAG_NAME, "img")
+                source = image.get_attribute("src")
+                weather_title = image.get_attribute("title")
+                if source.startswith("//"):
+                    source = "https:" + source
+
+                weather_title = image.get_attribute("title")
+
+
             except:
                 image = ""
+                weather_title = ""
 
-            # stop empty blocks (important for last incomplete row like Nairobi)
+    
             if city:
                 weather_data.append({
                     "city": city,
                     "time": time,
                     "temperature": temp,
-                    "image": image
+                    "weather": weather_title,
+                    "image": source
                 })
 
     df = pd.DataFrame(weather_data)
 
-    print(df)
-
+    print(df.tail())
+    
+    print("\nChecking for empty cells:\n")
+    print(df.isnull().sum())
+    print("check duplicate values")
+    print(df.duplicated().sum())
+    df.dropna(inplace=True)
+    df.sort_values(by="city", inplace=True)
+    df.reset_index(drop=True, inplace=True)
+    print(df.tail())
+    
     df.to_csv("weather_data.csv", index=False)
 
     input("Press Enter to close browser...")
