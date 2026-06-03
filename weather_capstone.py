@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
+import sqlite3
 
 pd.set_option("display.max_rows", None)
 pd.set_option("display.max_columns", None)
@@ -35,9 +36,14 @@ try:
         for i in range(0, len(table_cells ), 4):
 
             try:
-                city = table_cells [i].find_element(By.TAG_NAME, "a").text.strip()
+                city_element  = table_cells [i].find_element(By.TAG_NAME, "a")
+                city = city_element.text.strip()
+                href = city_element.get_attribute("href")
+                parts = href.split("/")
+                country = parts[4] if len(parts) > 4 else ""
             except:
                 city = ""
+                country = ""
 
             try:
                 time = table_cells [i + 1].text.strip()
@@ -67,6 +73,7 @@ try:
             if city:
                 weather_data.append({
                     "city": city,
+                    "country": country,
                     "time": time,
                     "temperature": temp,
                     "weather": weather_title,
@@ -87,6 +94,25 @@ try:
     print(df.tail())
     
     df.to_csv("weather_data.csv", index=False)
+    
+    with sqlite3.connect("weather.db") as conn:
+        print("Database connected successfully.")
+        cursor = conn.cursor()
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS weather (
+                city TEXT,
+                country TEXT,
+                time TEXT,
+                temperature TEXT,
+                weather TEXT,
+                image TEXT
+            )""")
+        df.to_sql("weather", conn, if_exists="replace", index=False)
+        
+    
+         
+    
+    
 
     input("Press Enter to close browser...")
 
