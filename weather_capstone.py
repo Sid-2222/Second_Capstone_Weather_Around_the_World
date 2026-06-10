@@ -34,7 +34,8 @@ try:
         table_cells  = row.find_elements(By.TAG_NAME, "td")
 
         for i in range(0, len(table_cells ), 4):
-
+            source = ""  
+            weather_title = ""
             try:
                 city_element  = table_cells [i].find_element(By.TAG_NAME, "a")
                 city = city_element.text.strip()
@@ -62,8 +63,6 @@ try:
                 if source.startswith("//"):
                     source = "https:" + source
 
-                weather_title = image.get_attribute("title")
-
 
             except:
                 image = ""
@@ -81,36 +80,81 @@ try:
                 })
 
     df = pd.DataFrame(weather_data)
-
-    print(df.tail())
     
-    print("\nChecking for empty cells:\n")
-    print(df.isnull().sum())
-    print("check duplicate values")
+    print("BEFORE CLEANING:")
+    print(df.head())
+    print(df.shape)  
+    
+    print("\nBEFORE CLEANING DUPLICATES:")
     print(df.duplicated().sum())
-    df.dropna(inplace=True)
-    df.sort_values(by="city", inplace=True)
-    df.reset_index(drop=True, inplace=True)
-    print(df.tail())
     
-    df.to_csv("weather_data.csv", index=False)
+    df_clean = df.dropna() 
+    df_clean = df_clean.drop_duplicates() 
+    
+    df_clean["temperature_num"] = df_clean["temperature"].str.extract(r"(\d+)").astype(float)
+    
+    print("\nTRANSFORMATION CHECK:")
+    print(df_clean[["temperature", "temperature_num"]].head())
+    
+    df_clean = df_clean.sort_values(by="city")
+    df_clean.reset_index(drop=True, inplace=True)
+    
+    print("\nAFTER CLEANING:")
+    print(df_clean.head())
+    print(df_clean.shape)
+    
+    print("\nChecking for missing values:")
+    print(df_clean.isnull().sum())
+    
+    print("check duplicate values")
+    print(df_clean.duplicated().sum())
+    
+    warm_cities = df_clean[df_clean["temperature_num"] > 70]
+    print("\nCities above 70 degrees:")
+    print(warm_cities[["city", "temperature_num"]].head())
+    
+    df_clean.to_csv("weather_data.csv", index=False)
+    
+    df_locations = df_clean[["city", "country"]]
+    df_locations.to_csv("locations.csv", index=False)
+    
+    df_weather_conditions = df_clean[["city", "weather", "image"]]
+    df_weather_conditions.to_csv("weather_conditions.csv", index=False)
+    
+    df_time_temp = df_clean[["city", "time", "temperature", "temperature_num"]]
+    df_time_temp.to_csv("time_temperature.csv", index=False)
     
     with sqlite3.connect("weather.db") as conn:
         print("Database connected successfully.")
         cursor = conn.cursor()
+        
         cursor.execute("""
-            CREATE TABLE IF NOT EXISTS weather (
+            CREATE TABLE IF NOT EXISTS locations (
                 city TEXT,
-                country TEXT,
-                time TEXT,
-                temperature TEXT,
+                country TEXT
+            )
+        """)
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS weather_conditions (
+                city TEXT,
                 weather TEXT,
                 image TEXT
-            )""")
-        df.to_sql("weather", conn, if_exists="replace", index=False)
-        
+            )
+        """)
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS time_temperature (
+                city TEXT,
+                time TEXT,
+                temperature TEXT,
+                temperature_num REAL
+            )
+        """)
+        conn.commit()
+        df_locations.to_sql("locations", conn, if_exists="replace", index=False)
+        df_weather_conditions.to_sql("weather_conditions", conn, if_exists="replace", index=False)
+        df_time_temp.to_sql("time_temperature", conn, if_exists="replace", index=False)
+        print("Data successfully saved to SQLite database.")       
     
-         
     
     
 

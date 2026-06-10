@@ -1,0 +1,141 @@
+city,time,temperature,temperature_num
+Accra,Wed 4:02 am,77 °F,77.0
+Addis Ababa,Wed 7:02 am,59 °F,59.0
+Adelaide,Wed 1:32 pm,63 °F,63.0
+Algiers,Wed 5:02 am,74 °F,74.0
+Almaty,Wed 9:02 am,79 °F,79.0
+Amman,Wed 7:02 am,70 °F,70.0
+Amsterdam,Wed 6:02 am,52 °F,52.0
+Anadyr,Wed 4:02 pm,37 °F,37.0
+Anchorage,Tue 8:02 pm,63 °F,63.0
+Ankara,Wed 7:02 am,59 °F,59.0
+Antananarivo,Wed 7:02 am,45 °F,45.0
+Asuncion,Wed 1:02 am,64 °F,64.0
+Athens,Wed 7:02 am,71 °F,71.0
+Atlanta,Wed 12:02 am,74 °F,74.0
+Auckland,Wed 4:02 pm,57 °F,57.0
+Baghdad,Wed 7:02 am,81 °F,81.0
+Bangkok,Wed 11:02 am,91 °F,91.0
+Barcelona,Wed 6:02 am,70 °F,70.0
+Beijing,Wed 12:02 pm,71 °F,71.0
+Belgrade,Wed 6:02 am,61 °F,61.0
+Bengaluru,Wed 9:32 am,75 °F,75.0
+Berlin,Wed 6:02 am,46 °F,46.0
+Bogota,Tue 11:02 pm,55 °F,55.0
+Boston,Wed 12:02 am,70 °F,70.0
+Brasilia,Wed 1:02 am,63 °F,63.0
+Brisbane,Wed 2:02 pm,64 °F,64.0
+Brussels,Wed 6:02 am,50 °F,50.0
+Bucharest,Wed 7:02 am,63 °F,63.0
+Budapest,Wed 6:02 am,64 °F,64.0
+Buenos Aires,Wed 1:02 am,54 °F,54.0
+Cairo,Wed 7:02 am,73 °F,73.0
+Calgary,Tue 10:02 pm,57 °F,57.0
+Canberra,Wed 2:02 pm,57 °F,57.0
+Cape Town,Wed 6:02 am,54 °F,54.0
+Caracas,Wed 12:02 am,79 °F,79.0
+Casablanca,Wed 5:02 am,64 °F,64.0
+Chicago,Tue 11:02 pm,83 °F,83.0
+Copenhagen,Wed 6:02 am,55 °F,55.0
+Dallas,Tue 11:02 pm,87 °F,87.0
+Dar es Salaam,Wed 7:02 am,72 °F,72.0
+Darwin,Wed 1:32 pm,86 °F,86.0
+Denver,Tue 10:02 pm,77 °F,77.0
+Detroit,Wed 12:02 am,73 °F,73.0
+Dhaka,Wed 10:02 am,85 °F,85.0
+Doha,Wed 7:02 am,99 °F,99.0
+Dubai,Wed 8:02 am,88 °F,88.0
+Dublin,Wed 5:02 am,46 °F,46.0
+Edmonton,Tue 10:02 pm,59 °F,59.0
+Frankfurt,Wed 6:02 am,46 °F,46.0
+Guatemala City,Tue 10:02 pm,68 °F,68.0
+Halifax,Wed 1:02 am,61 °F,61.0
+Hanoi,Wed 11:02 am,82 °F,82.0
+Harare,Wed 6:02 am,47 °F,47.0
+Havana,Wed 12:02 am,77 °F,77.0
+Helsinki,Wed 7:02 am,57 °F,57.0
+Hong Kong,Wed 12:02 pm,81 °F,81.0
+Honolulu,Tue 6:02 pm,83 °F,83.0
+Houston,Tue 11:02 pm,81 °F,81.0
+Indianapolis,Wed 12:02 am,85 °F,85.0
+Islamabad,Wed 9:02 am,90 °F,90.0
+Istanbul,Wed 7:02 am,68 °F,68.0
+Jakarta,Wed 11:02 am,88 °F,88.0
+Jerusalem,Wed 7:02 am,64 °F,64.0
+Johannesburg,Wed 6:02 am,44 °F,44.0
+Karachi,Wed 9:02 am,90 °F,90.0
+Kathmandu,Wed 9:47 am,72 °F,72.0
+Kingston,Tue 11:02 pm,81 °F,81.0
+Kinshasa,Wed 5:02 am,72 °F,72.0
+Kiritimati,Wed 6:02 pm,88 °F,88.0
+Kolkata,Wed 9:32 am,90 °F,90.0
+Kuala Lumpur,Wed 12:02 pm,86 °F,86.0
+Kuwait City,Wed 7:02 am,85 °F,85.0
+Kyiv,Wed 7:02 am,60 °F,60.0
+La Paz,Wed 12:02 am,40 °F,40.0
+Lagos,Wed 5:02 am,77 °F,77.0
+Lahore,Wed 9:02 am,95 °F,95.0
+Las Vegas,Tue 9:02 pm,94 °F,94.0
+Lima,Tue 11:02 pm,70 °F,70.0
+Lisbon,Wed 5:02 am,61 °F,61.0
+London,Wed 5:02 am,46 °F,46.0
+Los Angeles,Tue 9:02 pm,70 °F,70.0
+Madrid,Wed 6:02 am,63 °F,63.0
+Managua,Tue 10:02 pm,77 °F,77.0
+Manila,Wed 12:02 pm,90 °F,90.0
+Melbourne,Wed 2:02 pm,64 °F,64.0
+Mexico City,Tue 10:02 pm,64 °F,64.0
+Miami,Wed 12:02 am,83 °F,83.0
+Minneapolis,Tue 11:02 pm,79 °F,79.0
+Minsk,Wed 7:02 am,55 °F,55.0
+Montevideo,Wed 1:02 am,43 °F,43.0
+Montréal,Wed 12:02 am,70 °F,70.0
+Moscow,Wed 7:02 am,65 °F,65.0
+Mumbai,Wed 9:32 am,89 °F,89.0
+Nairobi,Wed 7:02 am,59 °F,59.0
+Nassau,Wed 12:02 am,81 °F,81.0
+New Delhi,Wed 9:32 am,92 °F,92.0
+New Orleans,Tue 11:02 pm,81 °F,81.0
+New York,Wed 12:02 am,72 °F,72.0
+Oslo,Wed 6:02 am,48 °F,48.0
+Ottawa,Wed 12:02 am,70 °F,70.0
+Paris,Wed 6:02 am,52 °F,52.0
+Perth,Wed 12:02 pm,61 °F,61.0
+Philadelphia,Wed 12:02 am,70 °F,70.0
+Phoenix,Tue 9:02 pm,99 °F,99.0
+Prague,Wed 6:02 am,54 °F,54.0
+Reykjavik,Wed 4:02 am,48 °F,48.0
+Rio de Janeiro,Wed 1:02 am,72 °F,72.0
+Riyadh,Wed 7:02 am,88 °F,88.0
+Rome,Wed 6:02 am,64 °F,64.0
+Salt Lake City,Tue 10:02 pm,73 °F,73.0
+San Francisco,Tue 9:02 pm,61 °F,61.0
+San Juan,Wed 12:02 am,79 °F,79.0
+San Salvador,Tue 10:02 pm,77 °F,77.0
+Santiago,Wed 12:02 am,48 °F,48.0
+Santo Domingo,Wed 12:02 am,82 °F,82.0
+Seattle,Tue 9:02 pm,57 °F,57.0
+Seoul,Wed 1:02 pm,75 °F,75.0
+Shanghai,Wed 12:02 pm,84 °F,84.0
+Singapore,Wed 12:02 pm,86 °F,86.0
+Sofia,Wed 7:02 am,57 °F,57.0
+St. John's,Wed 1:32 am,41 °F,41.0
+Stockholm,Wed 6:02 am,52 °F,52.0
+Suva,Wed 4:02 pm,77 °F,77.0
+Sydney,Wed 2:02 pm,73 °F,73.0
+São Paulo,Wed 1:02 am,61 °F,61.0
+Taipei,Wed 12:02 pm,75 °F,75.0
+Tallinn,Wed 7:02 am,55 °F,55.0
+Tashkent,Wed 9:02 am,71 °F,71.0
+Tegucigalpa,Tue 10:02 pm,70 °F,70.0
+Tehran,Wed 7:32 am,77 °F,77.0
+Tokyo,Wed 1:02 pm,72 °F,72.0
+Toronto,Wed 12:02 am,73 °F,73.0
+Vancouver,Tue 9:02 pm,57 °F,57.0
+Vienna,Wed 6:02 am,59 °F,59.0
+Warsaw,Wed 6:02 am,59 °F,59.0
+Washington DC,Wed 12:02 am,76 °F,76.0
+Winnipeg,Tue 11:02 pm,71 °F,71.0
+Yangon,Wed 10:32 am,84 °F,84.0
+Zagreb,Wed 6:02 am,61 °F,61.0
+Zürich,Wed 6:02 am,54 °F,54.0

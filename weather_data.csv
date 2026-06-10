@@ -1,140 +1,141 @@
-city,country,time,temperature,weather,image
-Accra,ghana,Wed 3:18 am,81 °F,Clear. Warm.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Addis Ababa,ethiopia,Wed 6:18 am,59 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Adelaide,australia,Wed 12:48 pm,57 °F,Cool.,https://c.tadst.com/gfx/w/svg/wt-33.svg
-Algiers,algeria,Wed 4:18 am,78 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Almaty,kazakstan,Wed 8:18 am,73 °F,Partly sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-Amman,jordan,Wed 6:18 am,70 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Amsterdam,netherlands,Wed 5:18 am,59 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Anadyr,russia,Wed 3:18 pm,59 °F,Scattered clouds. Refreshingly cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Anchorage,usa,Tue 7:18 pm,71 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Ankara,turkey,Wed 6:18 am,55 °F,Partly sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-Antananarivo,madagascar,Wed 6:18 am,54 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Asuncion,paraguay,Wed 12:18 am,66 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Athens,greece,Wed 6:18 am,72 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Atlanta,usa,Tue 11:18 pm,66 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Auckland,new-zealand,Wed 3:18 pm,63 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Baghdad,iraq,Wed 6:18 am,84 °F,Clear. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Bangkok,thailand,Wed 10:18 am,90 °F,Passing clouds. Hot.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Barcelona,spain,Wed 5:18 am,72 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Beijing,china,Wed 11:18 am,74 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-21.svg
-Belgrade,serbia,Wed 5:18 am,63 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Bengaluru,india,Wed 8:48 am,75 °F,Scattered clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Berlin,germany,Wed 5:18 am,63 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Bogota,colombia,Tue 10:18 pm,57 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Boston,usa,Tue 11:18 pm,65 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Brasilia,brazil,Wed 12:18 am,63 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Brisbane,australia,Wed 1:18 pm,75 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Brussels,belgium,Wed 5:18 am,55 °F,Sprinkles. Partly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-34.svg
-Bucharest,romania,Wed 6:18 am,57 °F,Fog. Cool.,https://c.tadst.com/gfx/w/svg/wt-9.svg
-Budapest,hungary,Wed 5:18 am,57 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Buenos Aires,argentina,Wed 12:18 am,57 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Cairo,egypt,Wed 6:18 am,75 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Calgary,canada,Tue 9:18 pm,46 °F,Mostly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-Canberra,australia,Wed 1:18 pm,54 °F,Broken clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-Cape Town,south-africa,Wed 5:18 am,61 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Caracas,venezuela,Tue 11:18 pm,81 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Casablanca,morocco,Wed 4:18 am,68 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Chicago,usa,Tue 10:18 pm,62 °F,Clear. Refreshingly cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Copenhagen,denmark,Wed 5:18 am,59 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Dallas,usa,Tue 10:18 pm,79 °F,Partly cloudy. Warm.,https://c.tadst.com/gfx/w/svg/wt-15.svg
-Dar es Salaam,tanzania,Wed 6:18 am,73 °F,Fog. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Darwin,australia,Wed 12:48 pm,84 °F,Scattered clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Denver,usa,Tue 9:18 pm,71 °F,Broken clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Detroit,usa,Tue 11:18 pm,64 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Dhaka,bangladesh,Wed 9:18 am,85 °F,Scattered clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Doha,qatar,Wed 6:18 am,97 °F,Sunny. Extremely hot.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Dubai,united-arab-emirates,Wed 7:18 am,86 °F,Sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Dublin,ireland,Wed 4:18 am,54 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Edmonton,canada,Tue 9:18 pm,48 °F,Low clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-7.svg
-Frankfurt,germany,Wed 5:18 am,52 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Guatemala City,guatemala,Tue 9:18 pm,68 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Halifax,canada,Wed 12:18 am,46 °F,Mostly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Hanoi,vietnam,Wed 10:18 am,91 °F,Scattered clouds. Hot.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Harare,zimbabwe,Wed 5:18 am,49 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Havana,cuba,Tue 11:18 pm,79 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Helsinki,finland,Wed 6:18 am,48 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Hong Kong,hong-kong,Wed 11:18 am,90 °F,Passing clouds. Hot.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Honolulu,usa,Tue 5:18 pm,79 °F,Light rain. Partly sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-18.svg
-Houston,usa,Tue 10:18 pm,77 °F,Mostly cloudy. Warm.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Indianapolis,usa,Tue 11:18 pm,74 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-15.svg
-Islamabad,pakistan,Wed 8:18 am,73 °F,Partly sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-Istanbul,turkey,Wed 6:18 am,68 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Jakarta,indonesia,Wed 10:18 am,83 °F,Overcast. Warm.,https://c.tadst.com/gfx/w/svg/wt-7.svg
-Jerusalem,israel,Wed 6:18 am,61 °F,Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Johannesburg,south-africa,Wed 5:18 am,49 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Karachi,pakistan,Wed 8:18 am,88 °F,Haze. Warm.,https://c.tadst.com/gfx/w/svg/wt-3.svg
-Kathmandu,nepal,Wed 9:03 am,77 °F,Partly sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-Kingston,jamaica,Tue 10:18 pm,84 °F,Warm.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Kinshasa,congo-demrep,Wed 4:18 am,75 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Kiritimati,kiribati,Wed 5:18 pm,84 °F,Sprinkles. Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-33.svg
-Kolkata,india,Wed 8:48 am,90 °F,Haze. Hot.,https://c.tadst.com/gfx/w/svg/wt-3.svg
-Kuala Lumpur,malaysia,Wed 11:18 am,86 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Kuwait City,kuwait,Wed 6:18 am,81 °F,Clear. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Kyiv,ukraine,Wed 6:18 am,58 °F,Passing clouds. Refreshingly cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-La Paz,bolivia,Tue 11:18 pm,38 °F,Clear. Chilly.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Lagos,nigeria,Wed 4:18 am,82 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Lahore,pakistan,Wed 8:18 am,81 °F,Scattered clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Las Vegas,usa,Tue 8:18 pm,100 °F,Partly sunny. Extremely hot.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Lima,peru,Tue 10:18 pm,70 °F,Overcast. Mild.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Lisbon,portugal,Wed 4:18 am,63 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-London,uk,Wed 4:18 am,55 °F,Overcast. Cool.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Los Angeles,usa,Tue 8:18 pm,64 °F,Scattered clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-15.svg
-Madrid,spain,Wed 5:18 am,63 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Managua,nicaragua,Tue 9:18 pm,86 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Manila,philippines,Wed 11:18 am,79 °F,Overcast. Warm.,https://c.tadst.com/gfx/w/svg/wt-7.svg
-Melbourne,australia,Wed 1:18 pm,57 °F,Mostly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-Mexico City,mexico,Tue 9:18 pm,66 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Miami,usa,Tue 11:18 pm,79 °F,Mostly cloudy. Warm.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Minneapolis,usa,Tue 10:18 pm,82 °F,Partly sunny. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-17.svg
-Minsk,belarus,Wed 6:18 am,46 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Montevideo,uruguay,Wed 12:18 am,52 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Montréal,canada,Tue 11:18 pm,68 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Moscow,russia,Wed 6:18 am,48 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Mumbai,india,Wed 8:48 am,77 °F,Drizzle. Broken clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-18.svg
-Nassau,bahamas,Tue 11:18 pm,81 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-New Delhi,india,Wed 8:48 am,82 °F,Fog. Warm.,https://c.tadst.com/gfx/w/svg/wt-9.svg
-New Orleans,usa,Tue 10:18 pm,80 °F,Thundershowers. Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-22.svg
-New York,usa,Tue 11:18 pm,70 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Oslo,norway,Wed 5:18 am,55 °F,Light rain. Broken clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-18.svg
-Ottawa,canada,Tue 11:18 pm,63 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Paris,france,Wed 5:18 am,54 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Perth,australia,Wed 11:18 am,61 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Philadelphia,usa,Tue 11:18 pm,75 °F,Partly cloudy. Mild.,https://c.tadst.com/gfx/w/svg/wt-15.svg
-Phoenix,usa,Tue 8:18 pm,101 °F,Sunny. Extremely hot.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Prague,czech-republic,Wed 5:18 am,59 °F,Light rain. Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-33.svg
-Reykjavik,iceland,Wed 3:18 am,50 °F,Drizzle. Mostly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-34.svg
-Rio de Janeiro,brazil,Wed 12:18 am,68 °F,Light rain. Overcast. Mild.,https://c.tadst.com/gfx/w/svg/wt-34.svg
-Riyadh,saudi-arabia,Wed 6:18 am,84 °F,Clear. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Rome,italy,Wed 5:18 am,72 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Salt Lake City,usa,Tue 9:18 pm,80 °F,Passing clouds. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-15.svg
-San Francisco,usa,Tue 8:18 pm,57 °F,Broken clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-San Juan,puerto-rico,Tue 11:18 pm,81 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-San Salvador,el-salvador,Tue 9:18 pm,81 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-15.svg
-Santiago,chile,Tue 11:18 pm,50 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Santo Domingo,dominican-republic,Tue 11:18 pm,83 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Seattle,usa,Tue 8:18 pm,85 °F,Sunny. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Seoul,south-korea,Wed 12:18 pm,86 °F,Sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Shanghai,china,Wed 11:18 am,88 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Singapore,singapore,Wed 11:18 am,88 °F,Scattered showers. Partly sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-33.svg
-Sofia,bulgaria,Wed 6:18 am,58 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-St. John's,canada,Wed 12:48 am,34 °F,Passing clouds. Chilly.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Stockholm,sweden,Wed 5:18 am,59 °F,Light rain. Mostly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-18.svg
-Suva,fiji,Wed 3:18 pm,84 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Sydney,australia,Wed 1:18 pm,70 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-São Paulo,brazil,Wed 12:18 am,59 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Taipei,taiwan,Wed 11:18 am,95 °F,Passing clouds. Extremely hot.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Tallinn,estonia,Wed 6:18 am,55 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Tashkent,uzbekistan,Wed 8:18 am,68 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Tegucigalpa,honduras,Tue 9:18 pm,77 °F,Clear. Warm.,https://c.tadst.com/gfx/w/svg/wt-13.svg
-Tehran,iran,Wed 6:48 am,68 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Tokyo,japan,Wed 12:18 pm,68 °F,Sprinkles. Partly sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-18.svg
-Toronto,canada,Tue 11:18 pm,68 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Vancouver,canada,Tue 8:18 pm,72 °F,Partly sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-6.svg
-Vienna,austria,Wed 5:18 am,64 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Warsaw,poland,Wed 5:18 am,55 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg
-Washington DC,usa,Tue 11:18 pm,68 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg
-Winnipeg,canada,Tue 10:18 pm,64 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-35.svg
-Yangon,myanmar,Wed 9:48 am,86 °F,Scattered clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Zagreb,croatia,Wed 5:18 am,63 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg
-Zürich,switzerland,Wed 5:18 am,55 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg
+city,country,time,temperature,weather,image,temperature_num
+Accra,ghana,Wed 4:02 am,77 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,77.0
+Addis Ababa,ethiopia,Wed 7:02 am,59 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg,59.0
+Adelaide,australia,Wed 1:32 pm,63 °F,Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg,63.0
+Algiers,algeria,Wed 5:02 am,74 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,74.0
+Almaty,kazakstan,Wed 9:02 am,79 °F,Broken clouds. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-6.svg,79.0
+Amman,jordan,Wed 7:02 am,70 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,70.0
+Amsterdam,netherlands,Wed 6:02 am,52 °F,Sprinkles. Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-18.svg,52.0
+Anadyr,russia,Wed 4:02 pm,37 °F,Overcast. Chilly.,https://c.tadst.com/gfx/w/svg/wt-7.svg,37.0
+Anchorage,usa,Tue 8:02 pm,63 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,63.0
+Ankara,turkey,Wed 7:02 am,59 °F,Broken clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg,59.0
+Antananarivo,madagascar,Wed 7:02 am,45 °F,Passing clouds. Quite cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg,45.0
+Asuncion,paraguay,Wed 1:02 am,64 °F,Partly cloudy. Mild.,https://c.tadst.com/gfx/w/svg/wt-15.svg,64.0
+Athens,greece,Wed 7:02 am,71 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,71.0
+Atlanta,usa,Wed 12:02 am,74 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,74.0
+Auckland,new-zealand,Wed 4:02 pm,57 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,57.0
+Baghdad,iraq,Wed 7:02 am,81 °F,Sunny. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg,81.0
+Bangkok,thailand,Wed 11:02 am,91 °F,Scattered clouds. Hot.,https://c.tadst.com/gfx/w/svg/wt-2.svg,91.0
+Barcelona,spain,Wed 6:02 am,70 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,70.0
+Beijing,china,Wed 12:02 pm,71 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,71.0
+Belgrade,serbia,Wed 6:02 am,61 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,61.0
+Bengaluru,india,Wed 9:32 am,75 °F,Broken clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-6.svg,75.0
+Berlin,germany,Wed 6:02 am,46 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,46.0
+Bogota,colombia,Tue 11:02 pm,55 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg,55.0
+Boston,usa,Wed 12:02 am,70 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,70.0
+Brasilia,brazil,Wed 1:02 am,63 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg,63.0
+Brisbane,australia,Wed 2:02 pm,64 °F,Cool.,https://c.tadst.com/gfx/w/svg/wt-33.svg,64.0
+Brussels,belgium,Wed 6:02 am,50 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg,50.0
+Bucharest,romania,Wed 7:02 am,63 °F,Fog. Mild.,https://c.tadst.com/gfx/w/svg/wt-9.svg,63.0
+Budapest,hungary,Wed 6:02 am,64 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,64.0
+Buenos Aires,argentina,Wed 1:02 am,54 °F,Partly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-15.svg,54.0
+Cairo,egypt,Wed 7:02 am,73 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,73.0
+Calgary,canada,Tue 10:02 pm,57 °F,Scattered showers. Broken clouds. Refreshingly cool.,https://c.tadst.com/gfx/w/svg/wt-34.svg,57.0
+Canberra,australia,Wed 2:02 pm,57 °F,Rain showers. Broken clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-33.svg,57.0
+Cape Town,south-africa,Wed 6:02 am,54 °F,Fog. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg,54.0
+Caracas,venezuela,Wed 12:02 am,79 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,79.0
+Casablanca,morocco,Wed 5:02 am,64 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg,64.0
+Chicago,usa,Tue 11:02 pm,83 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,83.0
+Copenhagen,denmark,Wed 6:02 am,55 °F,Partly sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg,55.0
+Dallas,usa,Tue 11:02 pm,87 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,87.0
+Dar es Salaam,tanzania,Wed 7:02 am,72 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg,72.0
+Darwin,australia,Wed 1:32 pm,86 °F,Sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg,86.0
+Denver,usa,Tue 10:02 pm,77 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,77.0
+Detroit,usa,Wed 12:02 am,73 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg,73.0
+Dhaka,bangladesh,Wed 10:02 am,85 °F,Low clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-7.svg,85.0
+Doha,qatar,Wed 7:02 am,99 °F,Sunny. Extremely hot.,https://c.tadst.com/gfx/w/svg/wt-1.svg,99.0
+Dubai,united-arab-emirates,Wed 8:02 am,88 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg,88.0
+Dublin,ireland,Wed 5:02 am,46 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg,46.0
+Edmonton,canada,Tue 10:02 pm,59 °F,Sprinkles. Partly sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-18.svg,59.0
+Frankfurt,germany,Wed 6:02 am,46 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,46.0
+Guatemala City,guatemala,Tue 10:02 pm,68 °F,Thunderstorms. Partly cloudy. Mild.,https://c.tadst.com/gfx/w/svg/wt-22.svg,68.0
+Halifax,canada,Wed 1:02 am,61 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg,61.0
+Hanoi,vietnam,Wed 11:02 am,82 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg,82.0
+Harare,zimbabwe,Wed 6:02 am,47 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg,47.0
+Havana,cuba,Wed 12:02 am,77 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,77.0
+Helsinki,finland,Wed 7:02 am,57 °F,Partly sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg,57.0
+Hong Kong,hong-kong,Wed 12:02 pm,81 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg,81.0
+Honolulu,usa,Tue 6:02 pm,83 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg,83.0
+Houston,usa,Tue 11:02 pm,81 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,81.0
+Indianapolis,usa,Wed 12:02 am,85 °F,Partly sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-17.svg,85.0
+Islamabad,pakistan,Wed 9:02 am,90 °F,Sunny. Hot.,https://c.tadst.com/gfx/w/svg/wt-1.svg,90.0
+Istanbul,turkey,Wed 7:02 am,68 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg,68.0
+Jakarta,indonesia,Wed 11:02 am,88 °F,Scattered clouds. Hot.,https://c.tadst.com/gfx/w/svg/wt-2.svg,88.0
+Jerusalem,israel,Wed 7:02 am,64 °F,Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,64.0
+Johannesburg,south-africa,Wed 6:02 am,44 °F,Clear. Quite cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg,44.0
+Karachi,pakistan,Wed 9:02 am,90 °F,Partly sunny. Hot.,https://c.tadst.com/gfx/w/svg/wt-6.svg,90.0
+Kathmandu,nepal,Wed 9:47 am,72 °F,Broken clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-6.svg,72.0
+Kingston,jamaica,Tue 11:02 pm,81 °F,Warm.,https://c.tadst.com/gfx/w/svg/wt-17.svg,81.0
+Kinshasa,congo-demrep,Wed 5:02 am,72 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg,72.0
+Kiritimati,kiribati,Wed 6:02 pm,88 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg,88.0
+Kolkata,india,Wed 9:32 am,90 °F,Broken clouds. Hot.,https://c.tadst.com/gfx/w/svg/wt-6.svg,90.0
+Kuala Lumpur,malaysia,Wed 12:02 pm,86 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg,86.0
+Kuwait City,kuwait,Wed 7:02 am,85 °F,Sunny. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg,85.0
+Kyiv,ukraine,Wed 7:02 am,60 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,60.0
+La Paz,bolivia,Wed 12:02 am,40 °F,Overcast. Chilly.,https://c.tadst.com/gfx/w/svg/wt-17.svg,40.0
+Lagos,nigeria,Wed 5:02 am,77 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,77.0
+Lahore,pakistan,Wed 9:02 am,95 °F,Clear. Extremely hot.,https://c.tadst.com/gfx/w/svg/wt-1.svg,95.0
+Las Vegas,usa,Tue 9:02 pm,94 °F,Clear. Extremely hot.,https://c.tadst.com/gfx/w/svg/wt-13.svg,94.0
+Lima,peru,Tue 11:02 pm,70 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,70.0
+Lisbon,portugal,Wed 5:02 am,61 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg,61.0
+London,uk,Wed 5:02 am,46 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,46.0
+Los Angeles,usa,Tue 9:02 pm,70 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg,70.0
+Madrid,spain,Wed 6:02 am,63 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg,63.0
+Managua,nicaragua,Tue 10:02 pm,77 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,77.0
+Manila,philippines,Wed 12:02 pm,90 °F,Partly sunny. Hot.,https://c.tadst.com/gfx/w/svg/wt-6.svg,90.0
+Melbourne,australia,Wed 2:02 pm,64 °F,Cloudy. Mild.,https://c.tadst.com/gfx/w/svg/wt-7.svg,64.0
+Mexico City,mexico,Tue 10:02 pm,64 °F,Mostly cloudy. Mild.,https://c.tadst.com/gfx/w/svg/wt-17.svg,64.0
+Miami,usa,Wed 12:02 am,83 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,83.0
+Minneapolis,usa,Tue 11:02 pm,79 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,79.0
+Minsk,belarus,Wed 7:02 am,55 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,55.0
+Montevideo,uruguay,Wed 1:02 am,43 °F,Fog. Quite cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg,43.0
+Montréal,canada,Wed 12:02 am,70 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,70.0
+Moscow,russia,Wed 7:02 am,65 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,65.0
+Mumbai,india,Wed 9:32 am,89 °F,Scattered clouds. Hot.,https://c.tadst.com/gfx/w/svg/wt-2.svg,89.0
+Nairobi,kenya,Wed 7:02 am,59 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg,59.0
+Nassau,bahamas,Wed 12:02 am,81 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,81.0
+New Delhi,india,Wed 9:32 am,92 °F,Sunny. Hot.,https://c.tadst.com/gfx/w/svg/wt-1.svg,92.0
+New Orleans,usa,Tue 11:02 pm,81 °F,Clear. Warm.,https://c.tadst.com/gfx/w/svg/wt-13.svg,81.0
+New York,usa,Wed 12:02 am,72 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg,72.0
+Oslo,norway,Wed 6:02 am,48 °F,Partly sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg,48.0
+Ottawa,canada,Wed 12:02 am,70 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,70.0
+Paris,france,Wed 6:02 am,52 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,52.0
+Perth,australia,Wed 12:02 pm,61 °F,Sunny. Refreshingly cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,61.0
+Philadelphia,usa,Wed 12:02 am,70 °F,Partly cloudy. Mild.,https://c.tadst.com/gfx/w/svg/wt-15.svg,70.0
+Phoenix,usa,Tue 9:02 pm,99 °F,Clear. Extremely hot.,https://c.tadst.com/gfx/w/svg/wt-13.svg,99.0
+Prague,czech-republic,Wed 6:02 am,54 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,54.0
+Reykjavik,iceland,Wed 4:02 am,48 °F,Partly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-4.svg,48.0
+Rio de Janeiro,brazil,Wed 1:02 am,72 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-13.svg,72.0
+Riyadh,saudi-arabia,Wed 7:02 am,88 °F,Sunny. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg,88.0
+Rome,italy,Wed 6:02 am,64 °F,Clear. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,64.0
+Salt Lake City,usa,Tue 10:02 pm,73 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-15.svg,73.0
+San Francisco,usa,Tue 9:02 pm,61 °F,Passing clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-15.svg,61.0
+San Juan,puerto-rico,Wed 12:02 am,79 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,79.0
+San Salvador,el-salvador,Tue 10:02 pm,77 °F,Thunderstorms. Partly cloudy. Warm.,https://c.tadst.com/gfx/w/svg/wt-22.svg,77.0
+Santiago,chile,Wed 12:02 am,48 °F,Overcast. Cool.,https://c.tadst.com/gfx/w/svg/wt-17.svg,48.0
+Santo Domingo,dominican-republic,Wed 12:02 am,82 °F,Passing clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-14.svg,82.0
+Seattle,usa,Tue 9:02 pm,57 °F,Broken clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg,57.0
+Seoul,south-korea,Wed 1:02 pm,75 °F,Scattered clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-2.svg,75.0
+Shanghai,china,Wed 12:02 pm,84 °F,Sunny. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-1.svg,84.0
+Singapore,singapore,Wed 12:02 pm,86 °F,Partly sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-6.svg,86.0
+Sofia,bulgaria,Wed 7:02 am,57 °F,Scattered clouds. Cool.,https://c.tadst.com/gfx/w/svg/wt-2.svg,57.0
+St. John's,canada,Wed 1:32 am,41 °F,Passing clouds. Quite cool.,https://c.tadst.com/gfx/w/svg/wt-14.svg,41.0
+Stockholm,sweden,Wed 6:02 am,52 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,52.0
+Suva,fiji,Wed 4:02 pm,77 °F,Scattered clouds. Warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg,77.0
+Sydney,australia,Wed 2:02 pm,73 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,73.0
+São Paulo,brazil,Wed 1:02 am,61 °F,Clear. Cool.,https://c.tadst.com/gfx/w/svg/wt-13.svg,61.0
+Taipei,taiwan,Wed 12:02 pm,75 °F,Sprinkles. Broken clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-18.svg,75.0
+Tallinn,estonia,Wed 7:02 am,55 °F,Rain. Fog. Cool.,https://c.tadst.com/gfx/w/svg/wt-19.svg,55.0
+Tashkent,uzbekistan,Wed 9:02 am,71 °F,Sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-1.svg,71.0
+Tegucigalpa,honduras,Tue 10:02 pm,70 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,70.0
+Tehran,iran,Wed 7:32 am,77 °F,Passing clouds. Pleasantly warm.,https://c.tadst.com/gfx/w/svg/wt-2.svg,77.0
+Tokyo,japan,Wed 1:02 pm,72 °F,Partly sunny. Mild.,https://c.tadst.com/gfx/w/svg/wt-6.svg,72.0
+Toronto,canada,Wed 12:02 am,73 °F,Mostly cloudy. Mild.,https://c.tadst.com/gfx/w/svg/wt-17.svg,73.0
+Vancouver,canada,Tue 9:02 pm,57 °F,Partly sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-6.svg,57.0
+Vienna,austria,Wed 6:02 am,59 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,59.0
+Warsaw,poland,Wed 6:02 am,59 °F,Sunny. Cool.,https://c.tadst.com/gfx/w/svg/wt-1.svg,59.0
+Washington DC,usa,Wed 12:02 am,76 °F,Passing clouds. Mild.,https://c.tadst.com/gfx/w/svg/wt-14.svg,76.0
+Winnipeg,canada,Tue 11:02 pm,71 °F,Mild.,https://c.tadst.com/gfx/w/svg/wt-22.svg,71.0
+Yangon,myanmar,Wed 10:32 am,84 °F,Partly sunny. Warm.,https://c.tadst.com/gfx/w/svg/wt-6.svg,84.0
+Zagreb,croatia,Wed 6:02 am,61 °F,Overcast. Cool.,https://c.tadst.com/gfx/w/svg/wt-7.svg,61.0
+Zürich,switzerland,Wed 6:02 am,54 °F,Light rain. Partly cloudy. Cool.,https://c.tadst.com/gfx/w/svg/wt-33.svg,54.0
