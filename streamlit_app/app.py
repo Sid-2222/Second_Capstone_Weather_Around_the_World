@@ -11,7 +11,10 @@ st.markdown("Interactive dashboard using scraped weather dataset from www.timean
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 file_path = os.path.join(BASE_DIR, "weather_data.csv")
 
+# loading csv to data frame
+
 df = pd.read_csv(file_path)
+# changinf format of temperature_num for calculations
 
 df["temperature_num"] = pd.to_numeric(df["temperature_num"], errors="coerce")
 df = df.dropna(subset=["temperature_num"])
@@ -21,27 +24,38 @@ df = df.dropna(subset=["temperature_num"])
 
 st.sidebar.header("Filters")
 
+# Dropdown menu for selecting a country or all countries
+
 country_filter = st.sidebar.selectbox(
     "Select Country",
     ["All"] + sorted(df["country"].dropna().unique())
 )
 
+# Slider allowing users to choose a temperature range.
+
 temp_range = st.sidebar.slider(
     "Temperature Range (°F)",
     int(df["temperature_num"].min()),
     int(df["temperature_num"].max()),
-    (40, 90)
+    (30, 100)
 )
+
+# Filtering the DataFrame based on the selected temperature range.
 
 filtered_df = df[
     (df["temperature_num"] >= temp_range[0]) &
     (df["temperature_num"] <= temp_range[1])
 ]
+# Filtering country as per users selection
 
 if country_filter != "All":
     filtered_df = filtered_df[filtered_df["country"] == country_filter]
-    
+ 
+# Creating three columns to display summary statistics side-by-side.   
+
 col1, col2, col3 = st.columns(3)
+
+# showing city count, average temp and max temp
 
 col1.metric("Cities", len(filtered_df))
 col2.metric("Avg Temp (°F)", round(filtered_df["temperature_num"].mean(), 1))
@@ -49,14 +63,13 @@ col3.metric("Max Temp (°F)", filtered_df["temperature_num"].max())
 
 st.divider()
 
-
+# Display the filtered weather data in a table.
 st.subheader("📊 Weather Data")
 table_df = filtered_df.drop(columns=["image", "temperature_num"], errors="ignore")
 st.dataframe(table_df, use_container_width=True)
 
-# ----------------------------
-# CHART 1 - BAR
-# ----------------------------
+# chart 1 bar
+
 st.subheader("🌡️ Temperature by City")
 
 fig1 = px.bar(
@@ -68,6 +81,8 @@ fig1 = px.bar(
 )
 
 st.plotly_chart(fig1, use_container_width=True)
+
+# chart temperature grouping of cities
 
 st.subheader("📈 Temperature Distribution")
 
@@ -81,9 +96,8 @@ fig2 = px.histogram(
 st.plotly_chart(fig2, use_container_width=True)
 
 
-# ----------------------------
-# CHART 3 - WEATHER TYPES
-# ----------------------------
+# chart 3 wearher types 
+
 st.subheader("☁️ Weather Conditions")
 
 weather_counts = filtered_df["weather"].value_counts().reset_index()
@@ -99,9 +113,9 @@ fig3 = px.pie(
 st.plotly_chart(fig3, use_container_width=True)
 
 
-# ----------------------------
-# CHART 4 - COUNTRY COMPARISON
-# ----------------------------
+
+# chart 4 avgerage temp of country 
+
 st.subheader("🌍 Average Temperature by Country")
 
 country_temp = (
